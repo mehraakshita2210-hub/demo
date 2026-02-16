@@ -15,6 +15,9 @@ public class RoiClass {
 		
 		GoldLoan gl = new GoldLoan();
 		gl.getROI();	
+
+		SilverLoan sl = new GoldLoan();
+		gl.getROI();	
 		
 	}
 
